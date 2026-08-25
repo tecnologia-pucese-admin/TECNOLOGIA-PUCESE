@@ -1,195 +1,203 @@
-# 🚀 Repositorio de Proyectos Académicos PUCESE
-
-<p align="center">
-  <b>Ingeniería en Tecnologías de la Información e Ingeniería en Sistemas</b>
-  <br>
-  Pontificia Universidad Católica del Ecuador - Sede Esmeraldas
-</p>
+# 🚀 TECNOLOGIA-PUCESE
 
 <p align="center">
 
-![GitHub Repo](https://img.shields.io/badge/Repositorio-Proyectos%20Acad%C3%A9micos-blue)
-![PUCESE](https://img.shields.io/badge/Universidad-PUCESE-red)
-![Estado](https://img.shields.io/badge/Estado-En%20desarrollo-success)
+### Proyectos Académicos de Ingeniería en Tecnologías de la Información e Ingeniería en Sistemas
+
+**Pontificia Universidad Católica del Ecuador – Sede Esmeraldas**
 
 </p>
 
 ---
 
-## 📚 Acerca del repositorio
+## 👋 Bienvenidos
 
-Este repositorio tiene como objetivo **centralizar, organizar y preservar los diferentes proyectos académicos desarrollados por los estudiantes de las carreras de Ingeniería en Tecnologías de la Información e Ingeniería en Sistemas de la **Pontificia Universidad Católica del Ecuador - Sede Esmeraldas (PUCESE)**.
+**TECNOLOGIA-PUCESE** es un espacio destinado a **centralizar, preservar y visibilizar proyectos académicos y tecnológicos** desarrollados por estudiantes de las carreras de:
 
-Aquí se recopilan proyectos desarrollados en diferentes asignaturas, áreas de conocimiento, investigaciones, prácticas y trabajos integradores, permitiendo mantener una estructura organizada y facilitar la consulta de proyectos académicos realizados por los estudiantes.
+* 🎓 Ingeniería en Tecnologías de la Información
+* 💻 Ingeniería en Sistemas
 
-El repositorio busca convertirse en un espacio de referencia académica y tecnológica, donde los proyectos puedan servir como evidencia del trabajo realizado, fuente de aprendizaje y punto de partida para futuros estudiantes.
+de la **Pontificia Universidad Católica del Ecuador – Sede Esmeraldas (PUCESE)**.
 
----
+Aquí se recopilan proyectos desarrollados durante la formación académica, investigaciones, trabajos integradores, prácticas, laboratorios y otras iniciativas relacionadas con las diferentes áreas de la tecnología.
 
-# 🎯 Objetivos
-
-## Objetivo general
-
-Centralizar y organizar los proyectos académicos desarrollados por estudiantes de Ingeniería en Tecnologías de la Información e Ingeniería en Sistemas de la PUCESE.
-
-## Objetivos específicos
-
-* 📂 Clasificar los proyectos según su área de conocimiento.
-* 💻 Preservar proyectos académicos desarrollados durante las diferentes etapas de formación.
-* 🔎 Facilitar la búsqueda y consulta de proyectos.
-* 🤝 Promover el aprendizaje colaborativo entre estudiantes.
-* 🚀 Crear un repositorio de referencia para futuras generaciones.
-* 🧠 Visibilizar los conocimientos y tecnologías aplicadas en los diferentes proyectos.
+Cada proyecto cuenta con su propio repositorio, permitiendo mantener de forma independiente su código fuente, documentación, historial de desarrollo y recursos asociados.
 
 ---
 
-# 🗂️ Áreas de clasificación
+# 🎯 Objetivo
 
-Los proyectos estarán organizados inicialmente en las siguientes categorías:
+Crear un espacio centralizado que permita organizar, conservar y dar visibilidad a los proyectos desarrollados por estudiantes de las carreras tecnológicas de la PUCESE.
 
-| Área                       | Descripción                                                                             |
-| -------------------------- | --------------------------------------------------------------------------------------- |
-| 🔬 Investigación           | Proyectos de investigación, análisis, estudios y trabajos académicos.                   |
-| 💻 Desarrollo de Software  | Aplicaciones, sistemas y soluciones de software.                                        |
-| 🌐 Desarrollo Web          | Sitios web, aplicaciones web y servicios relacionados.                                  |
-| 📱 Desarrollo Móvil        | Aplicaciones desarrolladas para dispositivos móviles.                                   |
-| 🤖 Inteligencia Artificial | Proyectos relacionados con IA, Machine Learning, automatización y análisis inteligente. |
-| 🌐 Redes                   | Configuración de redes, simulaciones, infraestructura y comunicaciones.                 |
-| 🔐 Ciberseguridad          | Seguridad informática, análisis de vulnerabilidades y protección de sistemas.           |
-| 🗄️ Bases de Datos         | Diseño, implementación y administración de bases de datos.                              |
-| 🖥️ Sistemas Operativos    | Administración, configuración y proyectos relacionados con sistemas operativos.         |
-| ☁️ Servidores y Cloud      | Infraestructura, virtualización, contenedores, servicios y computación en la nube.      |
-| 🌡️ IoT                    | Proyectos relacionados con dispositivos inteligentes e Internet de las Cosas.           |
-| 🚀 Proyectos Integradores  | Proyectos multidisciplinarios o de integración de conocimientos.                        |
+Buscamos que este espacio sirva como:
 
-> La estructura podrá ampliarse a medida que se incorporen nuevos proyectos y áreas de conocimiento.
+* 📚 Fuente de consulta y aprendizaje.
+* 💡 Referencia para futuros estudiantes.
+* 🧠 Evidencia del conocimiento y habilidades desarrolladas.
+* 🤝 Espacio para compartir proyectos académicos.
+* 🚀 Vitrina de iniciativas tecnológicas desarrolladas en la universidad.
 
 ---
 
-# 📁 Estructura del repositorio
+# 🗂️ Áreas de conocimiento
+
+Los proyectos pueden pertenecer a una o varias áreas.
+
+### 🔬 Investigación
+
+Proyectos de investigación, estudios, prototipos y propuestas tecnológicas.
+
+### 💻 Desarrollo de Software
+
+Sistemas, aplicaciones, APIs, herramientas y soluciones de software.
+
+### 🌐 Desarrollo Web
+
+Sitios web, plataformas y aplicaciones web.
+
+### 📱 Desarrollo Móvil
+
+Aplicaciones para dispositivos móviles.
+
+### 🤖 Inteligencia Artificial
+
+Machine Learning, Deep Learning, automatización inteligente y análisis de datos.
+
+### 🌐 Redes e Infraestructura
+
+Diseño, configuración, simulación y administración de redes.
+
+### 🔐 Ciberseguridad
+
+Seguridad informática, análisis de vulnerabilidades y protección de sistemas.
+
+### 🖥️ Sistemas Operativos y Servidores
+
+Administración de sistemas, Linux, virtualización, servicios y servidores.
+
+### ☁️ Cloud y DevOps
+
+Contenedores, automatización, infraestructura y servicios en la nube.
+
+### 🌡️ IoT y Sistemas Embebidos
+
+Dispositivos inteligentes, sensores, microcontroladores y sistemas conectados.
+
+### 🗄️ Bases de Datos
+
+Diseño, implementación y administración de sistemas de almacenamiento de datos.
+
+### 🚀 Proyectos Integradores
+
+Proyectos multidisciplinarios que integran diferentes áreas de conocimiento.
+
+---
+
+# 🏷️ Clasificación de proyectos
+
+Cada proyecto es un repositorio independiente y se clasifica mediante **GitHub Topics**.
+
+Esto permite que un mismo proyecto pertenezca a varias áreas sin necesidad de duplicar su contenido.
+
+Por ejemplo, un proyecto puede utilizar los siguientes topics:
 
 ```text
-📦 REPOSITORIO-PROYECTOS-PUCESE
-│
-├── 🔬 investigacion/
-│
-├── 💻 desarrollo-software/
-│
-├── 🌐 desarrollo-web/
-│
-├── 📱 desarrollo-movil/
-│
-├── 🤖 inteligencia-artificial/
-│
-├── 🌐 redes/
-│
-├── 🔐 ciberseguridad/
-│
-├── 🗄️ bases-de-datos/
-│
-├── 🖥️ sistemas-operativos/
-│
-├── ☁️ servidores-y-cloud/
-│
-├── 🌡️ iot/
-│
-├── 🚀 proyectos-integradores/
-│
-├── 📚 recursos/
-│
-├── CONTRIBUTING.md
-├── LICENSE
-└── README.md
+pucese
+tecnologia-pucese
+proyectos-academicos
+investigacion
+iot
+esp32
+sistemas-embebidos
 ```
+
+De esta manera, los proyectos pueden clasificarse tanto por su área de conocimiento como por las tecnologías utilizadas.
 
 ---
 
-# 📂 Estructura de cada proyecto
+# 📦 Proyectos
 
-Cada proyecto incorporado al repositorio deberá mantener una estructura básica que permita identificar fácilmente su contenido.
+Los proyectos disponibles pueden explorarse directamente desde los repositorios de esta cuenta.
 
-```text
-nombre-del-proyecto/
-│
-├── README.md
-├── src/
-├── docs/
-├── evidencias/
-└── recursos/
-```
+Cada repositorio incluirá, cuando sea posible:
 
-Dependiendo del tipo de proyecto, la estructura podrá variar.
-
-El archivo `README.md` de cada proyecto deberá incluir, cuando sea posible:
-
-* 📌 Nombre del proyecto.
+* 📌 Descripción del proyecto.
 * 👨‍💻 Autor o autores.
-* 🎓 Carrera.
-* 📚 Asignatura o área académica.
-* 📅 Periodo académico.
-* 📝 Descripción del proyecto.
+* 🎓 Carrera o área académica.
+* 📝 Documentación.
 * 🛠️ Tecnologías utilizadas.
 * ⚙️ Instrucciones de instalación o ejecución.
-* 📸 Evidencias o capturas.
-* 📄 Documentación adicional.
+* 📸 Evidencias del proyecto.
 
 ---
 
-# 👥 Autores
+# 👨‍💻 Autores y reconocimiento
 
-Los proyectos incluidos en este repositorio pertenecen a sus respectivos autores.
+Los proyectos publicados en **TECNOLOGIA-PUCESE** pertenecen a sus respectivos autores o equipos de desarrollo.
 
-Cada proyecto deberá identificar claramente a su autor o equipo de desarrollo dentro de su documentación.
+La finalidad de este espacio es preservar y organizar los proyectos académicos, manteniendo el reconocimiento correspondiente a quienes participaron en su creación.
+
+Cada repositorio deberá incluir información sobre sus autores y colaboradores.
 
 ---
 
-# 🤝 Contribuciones
+# 🤝 Contribución de proyectos
 
-Este repositorio está destinado a recopilar y organizar proyectos académicos.
+Para mantener una organización clara y consistente, los proyectos incorporados deberán seguir una estructura básica de documentación.
 
-Antes de agregar un nuevo proyecto, se recomienda:
-
-1. Verificar la categoría correspondiente.
-2. Crear una carpeta con un nombre descriptivo.
-3. Incluir documentación básica del proyecto.
-4. Evitar subir archivos innecesarios o generados automáticamente.
-5. No incluir información sensible, credenciales, contraseñas o claves privadas.
-6. Mantener una estructura clara y ordenada.
-
-Las instrucciones detalladas para contribuir estarán disponibles en el archivo:
+Se recomienda que cada repositorio incluya:
 
 ```text
-CONTRIBUTING.md
+README.md
+LICENSE
+Documentación del proyecto
+Información de autores
+```
+
+Además, deberán evitarse archivos que no sean necesarios para el funcionamiento o documentación del proyecto, tales como:
+
+```text
+node_modules/
+.env
+credenciales
+claves privadas
+archivos temporales
 ```
 
 ---
 
-# ⚠️ Importante
+# 🔐 Seguridad
 
-Los proyectos almacenados en este repositorio tienen fines principalmente **académicos y educativos**.
+Antes de publicar cualquier proyecto, es importante verificar que el repositorio no contenga:
 
-Cada estudiante o equipo es responsable del contenido de su proyecto y de garantizar que no se publiquen:
-
-* Contraseñas o credenciales.
-* Claves API.
+* Contraseñas.
+* Tokens.
+* API Keys.
+* Archivos `.env`.
+* Claves privadas.
 * Información personal sensible.
-* Configuraciones privadas.
-* Archivos innecesarios de dependencias o compilación.
+* Configuraciones internas que no deban hacerse públicas.
 
 ---
 
-# 📜 Licencia
+# 🌱 Construyendo conocimiento
 
-La licencia y condiciones de uso del repositorio serán definidas por los administradores del proyecto.
+Este espacio busca preservar el trabajo desarrollado por los estudiantes y permitir que nuevos proyectos continúen ampliando esta colección.
+
+Cada proyecto representa una oportunidad para:
+
+> **Aprender, construir, compartir y dejar una base para quienes vienen después.**
 
 ---
 
 <p align="center">
 
-<b>PUCESE — Ingeniería en Tecnologías de la Información e Ingeniería en Sistemas</b>
+### 🎓 Pontificia Universidad Católica del Ecuador – Sede Esmeraldas
+
+**Ingeniería en Tecnologías de la Información · Ingeniería en Sistemas**
 
 <br>
 
-🚀 <i>Aprender, construir y compartir conocimiento.</i>
+⭐ *Tecnología, conocimiento e innovación.*
 
 </p>
